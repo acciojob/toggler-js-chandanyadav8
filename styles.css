@@ -1,1 +1,5 @@
-/*  your css code here. If applicable */
+.toggle-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
